@@ -1,4 +1,4 @@
-# MTAS
+# MATS
 This repository is for the paper "A Multi-agent Transformer-based Algorithm for Multitask Dynamic Scheduling with Constrained Machines"
 
 # Requirements
