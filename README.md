@@ -1,4 +1,4 @@
 # MTAS
 
 # Reference
-https://github.com/MandiZhao/robot-collab
+https://github.com/PKU-MARL/Multi-Agent-Transformer
